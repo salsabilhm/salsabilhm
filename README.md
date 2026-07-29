@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Salsabil
+# Hi there  I'm Salsabil
 
 <p align="center">
 Master's Student in Computer Science • Data Science & Artificial Intelligence
