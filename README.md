@@ -5,7 +5,7 @@ Master's Student in Computer Science • Data Science & Artificial Intelligence
 </p>
 
 <p align="center">
-AI Engineer • Frontend Developer • Full-Stack Developer
+AI Engineer . Data Scientist . Frontend & Full-Stack Developer
 </p>
 
 ---
