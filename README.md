@@ -12,11 +12,11 @@ AI Engineer . Data Scientist . Frontend & Full-Stack Developer
 
 # 💫 About Me
 
-I'm a Master's student specializing in **Data Science & Artificial Intelligence**, with a strong interest in developing intelligent software solutions that combine Artificial Intelligence with modern web technologies.
+Master's student in **Data Science & Artificial Intelligence (SDIA)** and **Full-Stack Web Developer**, interested in building intelligent software solutions that combine AI with modern web technologies.
 
-My primary expertise is **Frontend Development**, where I enjoy building responsive, scalable, and user-friendly interfaces using modern technologies. In parallel, I work on full-stack applications and continuously expand my backend development skills to build complete AI-powered systems.
-
-I enjoy transforming ideas into real-world applications by combining software engineering principles with AI techniques across different domains.
+- Focused on developing complete web applications, from frontend and backend to database integration and deployment.
+- Exploring AI and Machine Learning to build practical, intelligent applications.
+- Interested in applying AI across real-world domains through scalable and user-focused software solutions.
 
 ---
 
